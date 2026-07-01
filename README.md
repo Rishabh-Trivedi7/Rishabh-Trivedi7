@@ -47,7 +47,7 @@ I enjoy turning ideas into beautiful digital experiences.
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
 
 </p>
 
@@ -101,11 +101,7 @@ I enjoy turning ideas into beautiful digital experiences.
 
 ---
 
-# 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Rishabh-Trivedi7&theme=algolia&no-frame=true&margin-w=15)
-
----
 
 # 🚀 Featured Projects
 
@@ -130,29 +126,7 @@ Luxury travel and hospitality platform built using MERN stack .
 ---
 
 
-# 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://leetcode.com/YOURUSERNAME">
-<img src="https://skillicons.dev/icons?i=leetcode"/>
-</a>
-
-<a href="https://portfolio.com">
-<img src="https://skillicons.dev/icons?i=devto"/>
-</a>
-
-</p>
-
----
 
 # 👀 Profile Views
 
