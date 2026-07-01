@@ -1,12 +1,4 @@
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-             RISHABH TRIVEDI
-
-        Full Stack Developer | AI Explorer
-
-       MERN • Java • React • Node • AI
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <div align="center">
 
 # Hi 👋 I'm Rishabh Trivedi
